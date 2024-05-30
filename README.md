@@ -1,5 +1,6 @@
 # react-sample
 
-## モジュールバンドラー
+## devDependency
 
-## トランスパイラ
+- reload
+  - `npx reload -b`でホットリロード
