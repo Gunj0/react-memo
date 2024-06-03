@@ -1,7 +1,12 @@
-export const ColorfulMessage = (props) => {
+// propsの例
+// named export
+export const ColorfulMessage = ({ color, children }) => {
   const contentStyle = {
-    color: props.color,
+    color,
     fontSize: 20,
   };
-  return <p style={contentStyle}>{props.children}</p>;
+  return <p style={contentStyle}>{children}</p>;
 };
+
+// default export
+// export default ColorfulMessage;
