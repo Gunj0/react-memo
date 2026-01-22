@@ -1,31 +1,11 @@
-# react-sample
+# react-memo
 
-## devDependency
-
-- reload
-  - `npx reload -b`でホットリロード
-
-## メモ
-
-- 有名なライブラリ
-  - react hook form
-
-### おすすめ拡張機能
-
-- Prettier
-  - 整形ツール
-- Live Server
-  - 簡易サーバー
-- Auto Rename Tag
-  - 閉じタグの自動変更
-- ES7+ React/Redux/React-Native
-  - React のスニペット
+- React / Next.js とその関連技術に関するメモ集
 
 ## Author
 
 - GitHub: [Gunj0](https://github.com/Gunj0)
 - X(Twitter): [@gunj0dev](https://x.com/gunj0dev)
-- BlueSky: [@gunj0.bsky.social](https://bsky.app/profile/gunj0.bsky.social)
 
 ## License
 
